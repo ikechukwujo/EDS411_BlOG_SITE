@@ -1,6 +1,6 @@
 # 22CG031937-EDS411-BLOG-1
 
-A minimal, responsive static blog page about "The Future of Artificial Intelligence in Everyday Life".
+A minimal, responsive static blog page about "Computers in various aspects of everyday life".
 
 This repository contains a simple HTML + CSS implementation designed for clarity, readability, and easy local preview. It uses locally provided images (in `img/`) and small SVG assets (in `assets/`).
 
